@@ -53,6 +53,12 @@
 
 </td></tr></table>  
 
+
+## My Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gindra-o7&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
 <br/>  
 
 
@@ -72,20 +78,8 @@
 
 <br/>  
 
-
-## My Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gindra-o7&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Gindra-o7&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
 
 ----
