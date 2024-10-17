@@ -57,12 +57,28 @@
 </td></tr></table>  
 
 
-## My Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gindra-o7&hide_border=true&layout=compact" align="center" /></div>  
+## My Stats
+- Github Activity
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gindra-o7&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"/>
+</div>
 
-<br/>  
+- Most languages in my github
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gindra-o7&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"/>
+</div>
 
-<br/>  
+- My streak
+<div>
+  <img src="https://streak-stats.demolab.com?user=gindra-o7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" " alt="streak graph"  />
+</div>
+
+- Wakatime Stats
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gindra_o7&text_color=36CCFC&title_color=36FC3E&bg_color=1E1E1E&border_color=FCC936\&layout=compact" alt="languages graph"/>
+</div>
+
+
 
 
 ## Connect with me  
