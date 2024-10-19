@@ -4,7 +4,7 @@
 - 🔭 A 22nd year infomatics engineering student, UIN Suska Riau, Pekanbaru  
   
 
-- 🧊 I'm interested in android and artificial intelligence  
+- 🧊 I'm interested in mobile and artificial intelligence  
   
 
 - ❓ Ask me about anything : gilaind.ramadhan@gmail.com  
