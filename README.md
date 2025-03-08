@@ -1,4 +1,4 @@
-### <div align="center">My name is Gilang Ramadhan Indra, some people call me lang 😀</div>  
+### <div align="center">My name is Gilang Ramadhan Indra, some people call me lang </div>  
   
 
 - 🔭 A 22nd year infomatics engineering student, UIN Suska Riau, Pekanbaru  
