@@ -60,7 +60,7 @@
 ## My Stats
 - Github Activity
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gindra-o7&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gindra-o7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"/>
 </div>
 
 - Most languages in my github
