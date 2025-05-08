@@ -79,12 +79,6 @@
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gindra_o7&text_color=36CCFC&bg_color=1E1E1E&border_color=FCC936\&layout=compact" alt="languages graph"/>
 </div>
 
-- LeetCode Stats
-<div>
-   <img src="https://leetcard.jacoblin.cool/indra89?theme=dark&font=Noto%20Sans">
-</div>
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/gindra-o7" target="_blank">
