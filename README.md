@@ -1,102 +1,133 @@
-### <div align="center">My name is Gilang Ramadhan Indra, some people call me lang </div>  
-  
-
-- 🔭 A 22nd year infomatics engineering student, UIN Suska Riau, Pekanbaru  
-  
-
-- 🧊 I'm interested in mobile and artificial intelligence  
-  
-
-- ❓ Ask me about anything : gilaind.ramadhan@gmail.com  
-  
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<br>
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Mobile  
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-
-## My Stats
-- Github Activity
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gindra-o7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"/>
-</div>
-
-- Most languages in my github
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gindra-o7&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"/>
-</div>
-
-- My streak
-<div>
-  <img src="https://streak-stats.demolab.com?user=gindra-o7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" " alt="streak graph"  />
-</div>
-
-- Wakatime Stats
-<div>
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gindra_o7&text_color=36CCFC&bg_color=1E1E1E&border_color=FCC936\&layout=compact" alt="languages graph"/>
-</div>
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/gindra-o7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/gilang-ramadhan-indra" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/gilanginr_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Hi%20There!%20I'm%20Gilang%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Some%20call%20me%20Lang!&descAlignY=60&descSize=18" />
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Mobile+Development+Enthusiast;AI+%26+Technology+Lover;Always+Learning+New+Things!" alt="Typing SVG" />
+  
+</div>
 
-<br/>  
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding GIF" height="200" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+```typescript
+const gilang = {
+  name: "Gilang Ramadhan Indra",
+  age: 22,
+  location: "Pekanbaru, Riau, Indonesia",
+  education: "UIN Suska Riau",
+  major: "Informatics Engineering",
+  interests: ["Mobile Development", "Artificial Intelligence", "Web Development"],
+  currentFocus: "Building awesome mobile apps with Flutter & Android",
+  askMeAbout: ["Flutter", "Android", "React", "AI", "Tech in general"],
+  email: "gilaind.ramadhan@gmail.com",
+  funFact: "I love turning coffee into code ☕️→💻"
+};
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Gindra-o7&&style=flat-square" align="center" />
-</div>  
 
-----
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&theme=dark" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,android,firebase&theme=dark" />
+</p>
+
+### 🗄️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,postgresql,nodejs&theme=dark" />
+</p>
+
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gindra-o7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gindra-o7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gindra-o7&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gindra-o7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gindra-o7&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💻 WakaTime Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gindra_o7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&custom_title=This%20Week%20I%20Spent%20My%20Time%20On" alt="WakaTime Stats" />
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gindra-o7)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gilang-ramadhan-indra)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gilanginr_)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilaind.ramadhan@gmail.com)
+  
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🔭 Working on mobile applications with Flutter & Android
+- 🌱 Learning more about AI and Machine Learning
+- 👯 Looking to collaborate on open source projects
+- 🎯 Goal: Contribute to 100 open source projects
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gindra-o7&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=100&section=footer" />
+  
+  **💻 Built with ❤️ by Gilang Ramadhan Indra**
+  
+</div>
