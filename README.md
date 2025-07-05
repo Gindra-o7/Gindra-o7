@@ -187,12 +187,11 @@ const gilang = {
 </div>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 <div align="center">
   
-  <!-- Project Cards -->
   <a href="https://github.com/gindra-o7/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gindra-o7&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
   </a>
@@ -208,12 +207,12 @@ const gilang = {
 
 <div align="center">
   
-  <!-- Blog Posts (Replace with actual blog feed) -->
   [![Blog](https://img.shields.io/badge/Blog-Coming%20Soon-brightgreen?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.com)
   
 </div>
 
 ---
+-->
 
 ## 💭 Random Dev Quote
 
@@ -224,7 +223,7 @@ const gilang = {
 </div>
 
 ---
-
+<!--
 ## 🎵 Spotify Now Playing
 
 <div align="center">
@@ -234,7 +233,7 @@ const gilang = {
 </div>
 
 ---
-
+-->
 ## 📈 Profile Analytics
 
 <div align="center">
@@ -248,9 +247,8 @@ const gilang = {
 ---
 
 <div align="center">
-  
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/gindra-o7/gindra-o7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <img src="https://raw.githubusercontent.com/gindra-o7/gindra-o7/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   <br><br>
   
