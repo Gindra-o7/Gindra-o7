@@ -35,7 +35,7 @@ const gilang = {
   education: {
     university: "UIN Suska Riau",
     major: "Informatics Engineering",
-    year: "2024"
+    year: "2022"
   },
   currentRole: "Student & Developer",
   passions: [
