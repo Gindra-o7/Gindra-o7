@@ -247,10 +247,6 @@ const gilang = {
 ---
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/gindra-o7/gindra-o7/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  <br><br>
   
   ### 💡 "The best way to predict the future is to create it." - Peter Drucker
   
