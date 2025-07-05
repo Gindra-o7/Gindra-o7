@@ -22,8 +22,8 @@ const gilang = {
   education: "UIN Suska Riau",
   major: "Informatics Engineering",
   interests: ["Mobile Development", "Artificial Intelligence", "Web Development"],
-  currentFocus: "Building awesome mobile apps with Flutter & Android",
-  askMeAbout: ["Flutter", "Android", "React", "AI", "Tech in general"],
+  currentFocus: "Building awesome Web apps with React & NodeJS",
+  askMeAbout: ["React", "Typescript", "React", "NodeJS", "Tech in general"],
   email: "gilaind.ramadhan@gmail.com",
   funFact: "I love turning coffee into code ☕️→💻"
 };
@@ -37,17 +37,17 @@ const gilang = {
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma&theme=dark" />
 </p>
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,android,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,firebase&theme=dark" />
 </p>
 
 ### 🗄️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,postgresql,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,postgresql,prisma,nodejs,express&theme=dark" />
 </p>
 
 ### 🧰 Tools & Others
