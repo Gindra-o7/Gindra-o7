@@ -47,12 +47,12 @@ const gilang = {
 
 ### 🗄️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,postgresql,prisma,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,postgresql,prisma,nodejs,express,bun&theme=dark" />
 </p>
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,arduino&theme=dark" />
 </p>
 
 </div>
