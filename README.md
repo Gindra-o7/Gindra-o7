@@ -15,7 +15,7 @@
 <div align="center">
   
   <!-- Profile Stats Cards -->
-  <img src="https://img.shields.io/badge/Age-22-blueviolet?style=flat-square&logo=calendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-21-blueviolet?style=flat-square&logo=calendar&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Pekanbaru,%20Riau-green?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/University-UIN%20Suska%20Riau-blue?style=flat-square&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Major-Informatics%20Engineering-orange?style=flat-square&logo=computer&logoColor=white" />
@@ -30,7 +30,7 @@
 const gilang = {
   name: "Gilang Ramadhan Indra",
   nickname: "Lang",
-  age: 22,
+  age: 21,
   location: "Pekanbaru, Riau, Indonesia 🇮🇩",
   education: {
     university: "UIN Suska Riau",
