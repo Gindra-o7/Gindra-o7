@@ -133,7 +133,7 @@ const gilang = {
 <div align="center">
   
   <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gindra_o7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&custom_title=This%20Week%20I%20Spent%20My%20Time%20On&langs_count=8" alt="WakaTime Stats" />
+  [![Gilang Ramadhan Indra stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gindra_o7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
