@@ -24,9 +24,7 @@
 
 <br>
 
-<video align="right" height="250" width="350" autoplay loop muted playsinline controls>
-  <source src="https://res.cloudinary.com/ddjyfjtsq/video/upload/v1763255432/phrolova-gif_hp0k5n.mp4" type="video/mp4" />
-</video>
+<img align="right" alt="Phrolova GIF" height="250" width="350" src="https://ccfqsrvqfbigkhcbtoac.supabase.co/storage/v1/object/public/personal/phrolova-gif.gif" />
 
 ```typescript
 const gilang = {
