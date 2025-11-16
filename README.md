@@ -24,7 +24,9 @@
 
 <br>
 
-<img align="right" alt="Coding GIF" height="250" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<video align="right" height="250" width="350" autoplay loop muted playsinline controls>
+  <source src="https://res.cloudinary.com/ddjyfjtsq/video/upload/v1763255432/phrolova-gif_hp0k5n.mp4" type="video/mp4" />
+</video>
 
 ```typescript
 const gilang = {
