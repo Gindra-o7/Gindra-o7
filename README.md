@@ -67,17 +67,12 @@ const gilang = {
 
 ### 🎨 Frontend Magic
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,vite,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,vite&theme=dark" />
 </p>
 
 ### 🗄️ Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,supabase,bun&theme=dark" />
-</p>
-
-### 🤖 AI & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
 ### 🧰 Tools & DevOps
