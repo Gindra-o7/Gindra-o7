@@ -122,16 +122,6 @@ DM via GitHub • Email
 
 ---
 
-### // CONTRIBUTION_GRID
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00FFF0/Gindra-o7" alt="contribution chart" />
-  <br />
-  <sub>◉ 12 months of neural activity • auto-updated via ghchart</sub>
-</p>
-
----
-
 ### // PAYLOAD // FEATURED_BUILDS
 
 <p align="center">
